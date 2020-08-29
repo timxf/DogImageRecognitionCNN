@@ -21,7 +21,7 @@ The purpose of this project is to create the backend of a web application to det
 8. matplotlib
 
 ### Sample Results 
-![Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png)
+![img/Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png)
 
-![Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png)
+![img/Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png)
 
