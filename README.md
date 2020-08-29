@@ -21,7 +21,6 @@ The purpose of this project is to create the backend of a web application to det
 8. matplotlib
 
 ### Sample Results 
-![https://github.com/timxf/DogImageRecognitionCNN/tree/master/img/Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png)
+<img src="./img/Screen%20Shot%202020-08-21%20at%202.03.49%20AM.png">
 
-![https://github.com/timxf/DogImageRecognitionCNN/tree/master/img/Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png](attachment:Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png)
-
+<img src="./img/Screen%20Shot%202020-08-21%20at%202.03.56%20AM.png">
